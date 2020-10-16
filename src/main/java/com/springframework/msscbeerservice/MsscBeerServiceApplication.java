@@ -1,10 +1,8 @@
-package guru.springframework.msscbeerservice;
+package com.springframework.msscbeerservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.openfeign.EnableFeignClients;
 
-@EnableFeignClients
 @SpringBootApplication
 public class MsscBeerServiceApplication {
 
